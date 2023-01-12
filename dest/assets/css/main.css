@@ -32,7 +32,7 @@ html
 
 body
 {
-    font-family: 'Arapey', serif;
+    font-family: 'Lexend'; 
     font-weight: 300;
     font-style: normal;
 
@@ -49,7 +49,7 @@ h4,
 h5,
 h6
 {
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Lexend', cursive;
     font-weight: normal;
 
     letter-spacing: .05em;
@@ -244,7 +244,7 @@ a:hover
          -o-transition: opacity 1s ease;
             transition: opacity 1s ease;
 
-    background: url(../img/background.jpg);
+    background: url(../img/profile.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -524,8 +524,6 @@ a:hover
     }
 }
 
-
-
 /** 6. Content Area --> About
 *******************************************************************/
 
@@ -540,6 +538,7 @@ a:hover
 {
     margin-bottom: 0;
 }
+
 
 
 
