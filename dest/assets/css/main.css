@@ -539,6 +539,13 @@ a:hover
     margin-bottom: 0;
 }
 
+#about li
+{
+    font-size: 1.5em;
+    line-height: .5em;
+
+    margin-bottom: 1em;
+}
 
 
 
