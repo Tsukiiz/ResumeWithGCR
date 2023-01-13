@@ -226,7 +226,7 @@ a:hover
     top: 0;
     left: 0;
 
-    width: 50%;
+    width: 40%;
     height: 100%;
 }
 
@@ -244,7 +244,7 @@ a:hover
          -o-transition: opacity 1s ease;
             transition: opacity 1s ease;
 
-    background: url(../img/profile.jpeg);
+    background: url(../img/profile2.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -279,16 +279,16 @@ a:hover
 .content-area .content-area-inner
 {
     position: relative;
-    left: 50%;
+    left: 40%;
     
-    width: 50%;
+    width: 60%;
     padding: 0 20px;
     overflow-x: hidden;
 }
 
 .content-area .content-area-inner section
 {
-    max-width: 520px;
+    max-width: 800px;
     margin: 0 auto 18vh auto;
 }
 
@@ -527,6 +527,7 @@ a:hover
 /** 6. Content Area --> About
 *******************************************************************/
 
+
 #about p
 {
     line-height: 1.5em;
@@ -547,7 +548,17 @@ a:hover
     margin-bottom: 1em;
 }
 
+#about ul
+{
 
+    margin-bottom: 7em;
+}
+
+#about h3
+{
+
+    margin-bottom: .9em;
+}
 
 /** 7. Content Area --> Service
 *******************************************************************/
